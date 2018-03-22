@@ -99,11 +99,13 @@ let tasks={
             fullPath : false,
 			group : [
 				{
-					value : ['reset.css','animate.css','app.css'],
+					value : ['base.css','app.css'],
 					name : "style"
 				}
 			]
-		},
+        }
+        /*
+        ,
 		js : {
             fullPath : false,
 			group : [
@@ -112,7 +114,8 @@ let tasks={
 					name : "flexible"
 				}
 			]
-		}
+        }
+        */
     },
 	/**
 	 *替换HTML中指定的CSS和JS

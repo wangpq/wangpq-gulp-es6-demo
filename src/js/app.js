@@ -1,7 +1,6 @@
 ﻿import {Animal,GztUtils,Circle} from "./utils"
 import $ from "./jquery"
 
-
 class Dog extends Animal{
   constructor(){
     super();
