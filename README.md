@@ -17,5 +17,5 @@ cnpm install  
 ```bash
 gulp
 ```
-然后打开浏览器，输入 http://localhost:8080,即可根据此示例开发项目。
+然后打开浏览器，输入 http://localhost:8080 ,即可根据此示例开发项目。
 
